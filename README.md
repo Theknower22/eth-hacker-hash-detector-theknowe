@@ -1,5 +1,7 @@
 # eth-hacker-hash-detector-theknower
-# Hash Type Detector & MD5 Generator  
+
+# Hash Type Detector & MD5 Generator
+
 A professional hash detection and MD5 generation tool using Python, for training and lab testing
 ---
 
