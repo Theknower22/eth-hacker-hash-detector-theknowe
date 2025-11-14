@@ -23,7 +23,7 @@ def detect_hash_type(hash_string):
     elif length == 128:
         return "Detected Hash Type: SHA512"
     else:
-        return f"❓ Unknown hash type (length: {length})"
+        return f"Unknown hash type (length: {length})"
 
 def generate_md5(plaintext):
     return hashlib.md5(plaintext.encode("utf-8")).hexdigest()
